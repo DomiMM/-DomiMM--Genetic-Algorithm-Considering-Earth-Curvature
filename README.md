@@ -8,5 +8,5 @@
 2. 
 3. 2. Then clone the repository locally → https://github.com/DomiMM/-DomiMM--Genetic-Algorithm-Considering-Earth-Curvature.git 
 4. 
-5. **How to run
+5. **How to run**
 6. With your favorite IDE (prefered way), we suggest: 1. Open https://github.com/DomiMM/-DomiMM--Genetic-Algorithm-Considering-Earth-Curvature.git 2. Click on Open in Colab 3. Run
